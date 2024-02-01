@@ -66,6 +66,8 @@ In order to ensure that the Laravel community is welcoming to all, please review
 ![image](https://github.com/JasonAlexanderGonzalez/sistemaTurismo/assets/126804239/291ef7f3-b058-43ed-a002-bd7d833fb55d)
 ![image](https://github.com/JasonAlexanderGonzalez/sistemaTurismo/assets/126804239/6e100ace-5854-4263-a28a-cfdc28b271db)
 
+ARCHIVOS DE LA CARPETA CONFIG, DEBE BUSCARLOS Y AGREGARLOS A ESTA CARPETA Y ELIMINARLOS DE DONDE ESTABAN
+![image](https://github.com/JasonAlexanderGonzalez/sistemaTurismo/assets/126804239/975da097-f00a-4c46-ad0b-cc2aa785a33b)
 
 
 
