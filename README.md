@@ -58,6 +58,18 @@ Thank you for considering contributing to the Laravel framework! The contributio
 In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
 ## Security Vulnerabilities
+![image](https://github.com/JasonAlexanderGonzalez/sistemaTurismo/assets/126804239/451c4854-fa85-4232-ae31-258c71ea40b4)
+![image](https://github.com/JasonAlexanderGonzalez/sistemaTurismo/assets/126804239/f52594cc-8827-4156-a2b8-995daec1c33f)
+![image](https://github.com/JasonAlexanderGonzalez/sistemaTurismo/assets/126804239/b0d46508-6206-4c87-9616-7b51bbbacaaf)
+
+![image](https://github.com/JasonAlexanderGonzalez/sistemaTurismo/assets/126804239/1fbf2331-51e9-4ee2-9379-04e333601ea3)
+![image](https://github.com/JasonAlexanderGonzalez/sistemaTurismo/assets/126804239/291ef7f3-b058-43ed-a002-bd7d833fb55d)
+![image](https://github.com/JasonAlexanderGonzalez/sistemaTurismo/assets/126804239/6e100ace-5854-4263-a28a-cfdc28b271db)
+
+
+
+
+
 
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
