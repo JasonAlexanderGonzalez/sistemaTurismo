@@ -104,6 +104,8 @@ body {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+
+
 hr {
   margin: 1rem 0;
   color: inherit;
@@ -10942,17 +10944,85 @@ p {
     margin-right: 0;
   }
 }
-header.masthead {
+.home header.masthead {
   padding-top: 10.5rem;
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/header-bg.jpg");
+  background-image: url("../assets/img/portfolio/turista.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
   background-size: cover;
 }
+
+.playa header.masthead {
+    padding-top: 10.5rem;
+    padding-bottom: 6rem;
+    text-align: center;
+    color: #fff;
+    background-image: url("../assets/img/portfolio/playa.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+  }
+
+  .montaña header.masthead {
+    padding-top: 10.5rem;
+    padding-bottom: 6rem;
+    text-align: center;
+    color: #fff;
+    background-image: url("../assets/img/portfolio/mm.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+  }
+
+  .ciudad header.masthead {
+    padding-top: 10.5rem;
+    padding-bottom: 6rem;
+    text-align: center;
+    color: #fff;
+    background-image: url("../assets/img/portfolio/c.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+  }
+/* Agrega estos estilos a tu archivo de estilos (por ejemplo, assets/home.css) */
+
+/* Estilos generales para el modal */
+.portfolio-modal .modal-content {
+    border: none;
+    border-radius: 0;
+}
+
+.portfolio-modal .modal-body {
+    padding: 40px;
+    text-align: center;
+}
+
+.portfolio-modal .btn-close {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    color: #000; /* Color del botón cerrar */
+}
+
+/* Estilos para el botón "Me gusta" */
+.portfolio-modal .btn-like {
+    margin-top: 20px;
+}
+
+/* En tu archivo de estilos (assets/home.css) */
+.portfolio-modal .modal-dialog {
+    max-width: 80%; /* Ajusta el ancho del modal según sea necesario */
+    margin: 1.75rem auto; /* Ajusta el margen superior e inferior del modal */
+}
+
+
 header.masthead .masthead-subheading {
   font-size: 1.5rem;
   font-style: italic;

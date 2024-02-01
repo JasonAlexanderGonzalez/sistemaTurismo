@@ -31,7 +31,6 @@ class LoginController extends Controller
 
         if (Auth::attempt($credentials, $remember)) {
             $request->session()->regenerate();
-
             return redirect()->intended(route('Home'));
         } else {
             return redirect()->route('login')->withErrors(['email' => 'Credenciales no válidas']);
